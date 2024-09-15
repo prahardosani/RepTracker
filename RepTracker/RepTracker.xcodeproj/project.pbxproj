@@ -50,7 +50,14 @@
 		8C64CC782C96E4E200C744F4 = {
 			isa = PBXGroup;
 			children = (
-				8C64CC832C96E4E200C744F4 /* RepTracker */,
+				8C64CC962C96E6D100C744F4 /* Views */,
+				8C64CC952C96E6C600C744F4 /* Models */,
+				8C64CC842C96E4E200C744F4 /* RepTrackerApp.swift */,
+				8C64CC862C96E4E200C744F4 /* ContentView.swift */,
+				8C64CC882C96E4E200C744F4 /* Item.swift */,
+				8C64CC8A2C96E4E300C744F4 /* Assets.xcassets */,
+				8C64CC8C2C96E4E300C744F4 /* RepTracker.entitlements */,
+				8C64CC8D2C96E4E300C744F4 /* Preview Content */,
 				8C64CC822C96E4E200C744F4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,21 +68,6 @@
 				8C64CC812C96E4E200C744F4 /* RepTracker.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		8C64CC832C96E4E200C744F4 /* RepTracker */ = {
-			isa = PBXGroup;
-			children = (
-				8C64CC962C96E6D100C744F4 /* Views */,
-				8C64CC952C96E6C600C744F4 /* Models */,
-				8C64CC842C96E4E200C744F4 /* RepTrackerApp.swift */,
-				8C64CC862C96E4E200C744F4 /* ContentView.swift */,
-				8C64CC882C96E4E200C744F4 /* Item.swift */,
-				8C64CC8A2C96E4E300C744F4 /* Assets.xcassets */,
-				8C64CC8C2C96E4E300C744F4 /* RepTracker.entitlements */,
-				8C64CC8D2C96E4E300C744F4 /* Preview Content */,
-			);
-			path = RepTracker;
 			sourceTree = "<group>";
 		};
 		8C64CC8D2C96E4E300C744F4 /* Preview Content */ = {
